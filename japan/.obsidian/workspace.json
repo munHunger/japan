@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "085898c3cba3975f",
+        "id": "5e4a8e6aea3bdc10",
         "type": "tabs",
         "children": [
           {
-            "id": "13152fad364bce5b",
+            "id": "3f561d8813bc3661",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +18,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5055283c3fedb440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1e0d17f3674d0cdc",
@@ -155,14 +144,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-map-view:Open map view": false
     }
   },
-  "active": "13152fad364bce5b",
+  "active": "3f561d8813bc3661",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Kyoto.md",
+    "Hiroshima.md",
+    "Nights.md",
+    "tokyo.md",
     "Ofiltrerade tankar.md",
-    "Itinerary.md",
+    "Wakayama.md",
+    "Osaka.md",
+    "Untitled.canvas",
+    "Location added on 2023-03-11T23-30.md",
+    "Location added on 2023-03-11T23-28.md",
+    "restaurant.md",
     "Untitled 1.canvas"
   ]
 }

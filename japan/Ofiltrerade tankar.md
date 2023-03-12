@@ -1,3 +1,7 @@
+---
+locations: 
+---
+
 ## Extra saker som är nära tokyo/narita
 * Chiba - nära narita flygplats. Mount nokogiriyarma
 * Gunma - Kusatsu Onsen
@@ -38,6 +42,7 @@
 * Nagasaki - Nothing of interest
 * Kagoshima - 
 * Okinawa - 
-
-
-## Hakone
+* [hachiman bori](geo:34.7169874,137.735943)
+* [gujo](geo:35.748417,136.9643095) -hachiman
+* [amanohashidate](geo:35.5680023,135.19063815218206)
+* 
