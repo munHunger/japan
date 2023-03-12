@@ -23,8 +23,10 @@ locations: 35.021041,135.7556075
 	* todai-ji tempel, en fet jävla buddah
 	* yoshino - berg med massa cherry-blossom (maj-juni blommar det så det är kört)
 	* byodoin tempel, fin å som går genom staden i trakten. 
-* 
-
+* [Ryokan Kato](geo:34.372276731461625,135.853262001717) tag:overnight
+	* Kan göra egna chopsticks eller japanskt parchment
+	* ![[Pasted image 20230312161454.png]]
+	* Restaurant tempura endo yasaka - ska vara dunder tempura
 
 Finns betydligt mer shrines man kan se
 

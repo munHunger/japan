@@ -9,15 +9,8 @@ locations:
 
 
 ## Random shit som ligger "inom resplanen"
-* Bo i fujiyoshida eller shimoyoshida
-* Chureito Pagoda (忠霊塔) in Yamanashi Prefecture
-* kanske klättra fiji
-* Izu Teddy Bear Museum, Ligger en bra bit söder om fuji och det finns en "kulle", "mount omuro" där man verkar kunna titta på fuji, lättare att kllättra. 
-* Kawazu Seven Waterfalls
 * Gifu prefecture - takayama (norr om fuji) - retro museum
-* Kyoto - Restaurant tempura endo yasaka - ska vara dunder tempura
 * Nara - todai-ji temple + bowing deer
- * [Ryokan Kato](https://www.google.com/maps/place/Ryokan+Kato/@34.372737,135.8514673,17z/data=!3m1!4b1!4m9!3m8!1s0x6006c624dc7a5f15:0x7920be9ace6f1c5!5m2!4m1!1i2!8m2!3d34.372737!4d135.853656!16s%2Fg%2F1tctxhyp)
 * Osaka - bra förr att dra ut, maten ska va dunder - osaka style okonomiyaki (pannkakor), takoyaki battered octopus, 
 * Wakayama - Kat-tågkonduktör
 * Hyogo - Himeji castle

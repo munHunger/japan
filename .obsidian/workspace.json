@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1350870c3912c8ae",
+        "id": "7b603f3c2630c836",
         "type": "split",
         "children": [
           {
-            "id": "e2d5a5c09472856f",
+            "id": "7067bc3075aa5642",
             "type": "tabs",
             "children": [
               {
-                "id": "e0b2c89991c07311",
+                "id": "1a4c8f021309cbf0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kyoto.md",
+                    "file": "Ofiltrerade tankar.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,7 +26,7 @@
             ]
           },
           {
-            "id": "7067bc3075aa5642",
+            "id": "62544e86fb48c081",
             "type": "tabs",
             "children": [
               {
@@ -37,10 +37,10 @@
                   "type": "map",
                   "state": {
                     "name": "Default",
-                    "mapZoom": 10,
+                    "mapZoom": 12,
                     "mapCenter": {
-                      "lat": 35.20130588351442,
-                      "lng": 135.67771911621097
+                      "lat": 34.88705014692212,
+                      "lng": 139.09329612439726
                     },
                     "query": "",
                     "chosenMapSource": 0,
@@ -183,8 +183,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lyoto",
-                "matchingCase": true,
+                "query": "kaw",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -220,6 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ofiltrerade tankar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,6 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ofiltrerade tankar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +259,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ofiltrerade tankar.md"
+              }
             }
           }
         ]
@@ -278,16 +282,20 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "48006844b2dd6c8a",
+  "active": "1a4c8f021309cbf0",
   "lastOpenFiles": [
     "Kyoto.md",
-    "tokyo.md",
     "Ofiltrerade tankar.md",
+    "Fuji.md",
+    "Hiroshima.md",
+    "Pasted image 20230312163549.png",
+    "Pasted image 20230312163111.png",
+    "Pasted image 20230312161454.png",
+    "tokyo.md",
     "Nights.md",
     "restaurant.md",
     "Osaka.md",
     "Wakayama.md",
-    "Hiroshima.md",
     "Untitled.canvas",
     "Location added on 2023-03-11T23-30.md",
     "Location added on 2023-03-11T23-28.md",
