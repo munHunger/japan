@@ -55,6 +55,15 @@
         "icon": "fa-fire",
         "markerColor": "red"
       }
+    },
+    {
+      "ruleName": "#shrine",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-torii-gate",
+        "markerColor": "green"
+      }
     }
   ],
   "zoomOnGoFromNote": 15,
@@ -62,7 +71,7 @@
   "markerClickBehavior": "dedicatedPane",
   "markerCtrlClickBehavior": "dedicatedPane",
   "markerMiddleClickBehavior": "dedicatedTab",
-  "openMapBehavior": "replaceCurrent",
+  "openMapBehavior": "dedicatedPane",
   "openMapCtrlClickBehavior": "dedicatedPane",
   "openMapMiddleClickBehavior": "dedicatedTab",
   "newNoteNameFormat": "Location added on {{date:YYYY-MM-DD}}T{{date:HH-mm}}",
@@ -92,7 +101,7 @@
   ],
   "mapControls": {
     "filtersDisplayed": true,
-    "viewDisplayed": true,
+    "viewDisplayed": false,
     "presetsDisplayed": true
   },
   "maxClusterRadiusPixels": 0,
