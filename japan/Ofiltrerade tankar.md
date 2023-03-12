@@ -37,7 +37,7 @@ locations:
 * Fukuoka - Tonkotsu ramen, (ippudo: Japans best ramen chain), finns en enorm buddah
 * oita - beppu onsen
 * Kumamoto - aso volcano, 
-* Miyazaki - Takachiho gorge (ser fan dunder ut), miyazaki beef tag:mustSee
+* Miyazaki - [Takachiho gorge](geo:32.701622349269456,131.3010754797278) tag:mustSee (ser fan dunder ut), miyazaki beef 
 * Saga - has good tea
 * Nagasaki - Nothing of interest
 * Kagoshima - 
@@ -45,4 +45,3 @@ locations:
 * [hachiman bori](geo:34.7169874,137.735943)
 * [gujo](geo:35.748417,136.9643095) -hachiman
 * [amanohashidate](geo:35.5680023,135.19063815218206)
-* 

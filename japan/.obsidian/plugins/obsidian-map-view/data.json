@@ -22,7 +22,7 @@
       }
     },
     {
-      "ruleName": "#trip",
+      "ruleName": "#hiking",
       "preset": false,
       "iconDetails": {
         "prefix": "fas",
@@ -39,17 +39,27 @@
       }
     },
     {
-      "ruleName": "#dogs",
+      "ruleName": "#kyoto",
       "preset": false,
       "iconDetails": {
         "prefix": "fas",
-        "icon": "fa-paw"
+        "icon": "fa-1",
+        "markerColor": "purple"
+      }
+    },
+    {
+      "ruleName": "#mustSee",
+      "preset": false,
+      "iconDetails": {
+        "prefix": "fas",
+        "icon": "fa-fire",
+        "markerColor": "red"
       }
     }
   ],
   "zoomOnGoFromNote": 15,
   "autoZoom": true,
-  "markerClickBehavior": "replaceCurrent",
+  "markerClickBehavior": "dedicatedPane",
   "markerCtrlClickBehavior": "dedicatedPane",
   "markerMiddleClickBehavior": "dedicatedTab",
   "openMapBehavior": "replaceCurrent",
@@ -83,9 +93,9 @@
   "mapControls": {
     "filtersDisplayed": true,
     "viewDisplayed": true,
-    "presetsDisplayed": false
+    "presetsDisplayed": true
   },
-  "maxClusterRadiusPixels": 20,
+  "maxClusterRadiusPixels": 0,
   "searchProvider": "osm",
   "useGooglePlaces": false,
   "mapSources": [
