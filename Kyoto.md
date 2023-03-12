@@ -18,6 +18,7 @@ locations: 35.021041,135.7556075
 	* togetsukyo - moon crossing bridge. 
 	* "romantic train" from sagano to kemeoka
 * [ine-cho](geo:35.7146295,135.248496) tag:mustSee
+	* ![[Pasted image 20230312170955.png]]
 * [Nara](geo:34.6845445,135.8048359)
 	* mata rådjur uppe i någon park
 	* todai-ji tempel, en fet jävla buddah

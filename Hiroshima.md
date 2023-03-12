@@ -9,5 +9,5 @@ locations:
 Relaxed city
 
 * Atomic dome 
-* itsukushima shrine - miyajima - cool shrine, kort båtfärd från hiroshima
+* [[shrines#Itsukushima]]
 * Island is peaceful and historic, there are free-moving deer. 
