@@ -10,12 +10,11 @@ locations:
 
 ## Random shit som ligger "inom resplanen"
 * Gifu prefecture - takayama (norr om fuji) - retro museum
-* Nara - todai-ji temple + bowing deer
 * Osaka - bra förr att dra ut, maten ska va dunder - osaka style okonomiyaki (pannkakor), takoyaki battered octopus, 
 * Wakayama - Kat-tågkonduktör
 * Hyogo - Himeji castle
 * okayama -  Kurashiki: japans venice
-* tottori - finns massa sand
+* tottori - finns massa sand-dunes
 * Shimane - yushien garden (most beautiful garden in japan)
 * Ut på ön shikoku
   * Ehime - Dogo Onsen, 

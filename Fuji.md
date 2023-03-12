@@ -9,7 +9,7 @@ Kanske klättra Mt. Fiji men det verkar svårt
 
 ### Fujiyoshida
 Kan bo t.ex. i [shimoyoshida](geo:35.4979775,138.8036172) tag:overnight eller i [fujiyoshida](geo:35.4874565,138.8078281) tag:overnight
-Riktigt fin shrine att titta på: [Chureito Pagoda](geo:35.501299200000005,138.80147983726113) tag:shrine
+Riktigt fin shrine att titta på: [[shrines#Chureito pagoda]]
 
 ### Ito 
 [ito](geo:34.926734,139.087685) tag:overnight

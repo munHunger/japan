@@ -2,7 +2,7 @@
 locations: 
 ---
 
-[hiroshima](geo:34.3916058,132.4518156)
+[hiroshima](geo:34.3916058,132.4518156) tag:overnight
 
 
 ## Overview

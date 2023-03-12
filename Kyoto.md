@@ -1,7 +1,7 @@
 ---
-locations: 35.021041,135.7556075
+locations:
 ---
- #kyoto
+[kyoto](geo:35.021041,135.7556075) tag:overnight #kyoto
 ## Overview
 * Tv-spelsbar - [Cafe la siesta 8-bit edition ](https://cafelasiesta.com/online-shop/)
 * [fushimi inari taisha](geo:34.966983,135.7747604)

@@ -4,160 +4,170 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d5a5c09472856f",
-        "type": "tabs",
+        "id": "7b603f3c2630c836",
+        "type": "split",
         "children": [
           {
-            "id": "e0b2c89991c07311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hiroshima.md",
-                "mode": "source",
-                "source": false
+            "id": "7067bc3075aa5642",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a4c8f021309cbf0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Fuji.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c21bb2824f3a0ee9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Wakayama.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "792289e2fe466adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shrines.md",
-                "mode": "source",
-                "source": false
+            "id": "62544e86fb48c081",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "48006844b2dd6c8a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "map",
+                  "state": {
+                    "name": "Default",
+                    "mapZoom": 7,
+                    "mapCenter": {
+                      "lat": 34.33234910522812,
+                      "lng": 135.65451865270038
+                    },
+                    "query": "tag:#overnight",
+                    "chosenMapSource": 0,
+                    "defaultState": {
+                      "name": "Default",
+                      "mapZoom": 1,
+                      "mapCenter": {
+                        "lat": 40.44694705960048,
+                        "lng": -180.70312500000003
+                      },
+                      "query": "",
+                      "chosenMapSource": 0
+                    },
+                    "savedStates": [],
+                    "markerIconRules": [
+                      {
+                        "ruleName": "default",
+                        "preset": true,
+                        "iconDetails": {
+                          "prefix": "fas",
+                          "icon": "fa-circle",
+                          "markerColor": "blue"
+                        }
+                      },
+                      {
+                        "ruleName": "#trip",
+                        "preset": false,
+                        "iconDetails": {
+                          "prefix": "fas",
+                          "icon": "fa-hiking",
+                          "markerColor": "green"
+                        }
+                      },
+                      {
+                        "ruleName": "#trip-water",
+                        "preset": false,
+                        "iconDetails": {
+                          "prefix": "fas",
+                          "markerColor": "blue"
+                        }
+                      },
+                      {
+                        "ruleName": "#dogs",
+                        "preset": false,
+                        "iconDetails": {
+                          "prefix": "fas",
+                          "icon": "fa-paw"
+                        }
+                      }
+                    ],
+                    "zoomOnGoFromNote": 15,
+                    "autoZoom": true,
+                    "markerClickBehavior": "replaceCurrent",
+                    "markerCtrlClickBehavior": "dedicatedPane",
+                    "markerMiddleClickBehavior": "dedicatedTab",
+                    "openMapBehavior": "replaceCurrent",
+                    "openMapCtrlClickBehavior": "dedicatedPane",
+                    "openMapMiddleClickBehavior": "dedicatedTab",
+                    "newNoteNameFormat": "Location added on {{date:YYYY-MM-DD}}T{{date:HH-mm}}",
+                    "showNoteNamePopup": true,
+                    "showNotePreview": true,
+                    "showClusterPreview": false,
+                    "debug": false,
+                    "openIn": [
+                      {
+                        "name": "Google Maps",
+                        "urlPattern": "https://maps.google.com/?q={x},{y}"
+                      }
+                    ],
+                    "urlParsingRules": [
+                      {
+                        "name": "OpenStreetMap Show Address",
+                        "regExp": "https:\\/\\/www.openstreetmap.org\\S*query=([0-9\\.\\-]+%2C[0-9\\.\\-]+)\\S*",
+                        "ruleType": "latLng",
+                        "preset": true
+                      },
+                      {
+                        "name": "Generic Lat,Lng",
+                        "regExp": "([0-9\\.\\-]+), ([0-9\\.\\-]+)",
+                        "ruleType": "latLng",
+                        "preset": true
+                      }
+                    ],
+                    "mapControls": {
+                      "filtersDisplayed": true,
+                      "viewDisplayed": true,
+                      "presetsDisplayed": false
+                    },
+                    "maxClusterRadiusPixels": 20,
+                    "searchProvider": "osm",
+                    "useGooglePlaces": false,
+                    "mapSources": [
+                      {
+                        "name": "CartoDB",
+                        "urlLight": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+                        "preset": true
+                      }
+                    ],
+                    "chosenMapMode": "auto",
+                    "saveHistory": true,
+                    "letZoomBeyondMax": false,
+                    "queryForFollowActiveNote": "path:\"$PATH$\"",
+                    "supportRealTimeGeolocation": false,
+                    "fixFrontMatterOnPaste": true,
+                    "queryError": false,
+                    "followActiveNote": false
+                  },
+                  "pinned": true
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "62d3d7edd4ccf8fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05829debb80987e5",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 8,
-                "mapCenter": {
-                  "lat": 35.324142728888184,
-                  "lng": 137.63671875000003
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "defaultState": {
-                  "name": "Default",
-                  "mapZoom": 1,
-                  "mapCenter": {
-                    "lat": 40.44694705960048,
-                    "lng": -180.70312500000003
-                  },
-                  "query": "",
-                  "chosenMapSource": 0
-                },
-                "savedStates": [],
-                "markerIconRules": [
-                  {
-                    "ruleName": "default",
-                    "preset": true,
-                    "iconDetails": {
-                      "prefix": "fas",
-                      "icon": "fa-circle",
-                      "markerColor": "blue"
-                    }
-                  },
-                  {
-                    "ruleName": "#trip",
-                    "preset": false,
-                    "iconDetails": {
-                      "prefix": "fas",
-                      "icon": "fa-hiking",
-                      "markerColor": "green"
-                    }
-                  },
-                  {
-                    "ruleName": "#trip-water",
-                    "preset": false,
-                    "iconDetails": {
-                      "prefix": "fas",
-                      "markerColor": "blue"
-                    }
-                  },
-                  {
-                    "ruleName": "#dogs",
-                    "preset": false,
-                    "iconDetails": {
-                      "prefix": "fas",
-                      "icon": "fa-paw"
-                    }
-                  }
-                ],
-                "zoomOnGoFromNote": 15,
-                "autoZoom": true,
-                "markerClickBehavior": "replaceCurrent",
-                "markerCtrlClickBehavior": "dedicatedPane",
-                "markerMiddleClickBehavior": "dedicatedTab",
-                "openMapBehavior": "replaceCurrent",
-                "openMapCtrlClickBehavior": "dedicatedPane",
-                "openMapMiddleClickBehavior": "dedicatedTab",
-                "newNoteNameFormat": "Location added on {{date:YYYY-MM-DD}}T{{date:HH-mm}}",
-                "showNoteNamePopup": true,
-                "showNotePreview": true,
-                "showClusterPreview": false,
-                "debug": false,
-                "openIn": [
-                  {
-                    "name": "Google Maps",
-                    "urlPattern": "https://maps.google.com/?q={x},{y}"
-                  }
-                ],
-                "urlParsingRules": [
-                  {
-                    "name": "OpenStreetMap Show Address",
-                    "regExp": "https:\\/\\/www.openstreetmap.org\\S*query=([0-9\\.\\-]+%2C[0-9\\.\\-]+)\\S*",
-                    "ruleType": "latLng",
-                    "preset": true
-                  },
-                  {
-                    "name": "Generic Lat,Lng",
-                    "regExp": "([0-9\\.\\-]+), ([0-9\\.\\-]+)",
-                    "ruleType": "latLng",
-                    "preset": true
-                  }
-                ],
-                "mapControls": {
-                  "filtersDisplayed": true,
-                  "viewDisplayed": true,
-                  "presetsDisplayed": false
-                },
-                "maxClusterRadiusPixels": 20,
-                "searchProvider": "osm",
-                "useGooglePlaces": false,
-                "mapSources": [
-                  {
-                    "name": "CartoDB",
-                    "urlLight": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
-                    "preset": true
-                  }
-                ],
-                "chosenMapMode": "auto",
-                "saveHistory": true,
-                "letZoomBeyondMax": false,
-                "queryForFollowActiveNote": "path:\"$PATH$\"",
-                "supportRealTimeGeolocation": false,
-                "fixFrontMatterOnPaste": true,
-                "queryError": false
-              }
-            }
-          }
-        ]
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -186,8 +196,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mustSee",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -281,30 +291,30 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "e546bb2815253ec1",
+  "active": "48006844b2dd6c8a",
   "lastOpenFiles": [
-    "Pasted image 20230312163549.png",
-    "Pasted image 20230312163111.png",
-    "Pasted image 20230312161454.png",
-    "Fuji.md",
-    "shrines.md",
-    "Hiroshima.md",
-    "images/Pasted image 20230312172506.png",
     "Wakayama.md",
-    "Ofiltrerade tankar.md",
+    "Hiroshima.md",
     "Kyoto.md",
+    "shrines.md",
+    "Fuji.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Ofiltrerade tankar.md",
+    "images/Pasted image 20230312161454.png",
+    "images/Pasted image 20230312172506.png",
     "images/Pasted image 20230312172019.png",
     "images/Pasted image 20230312170955.png",
     "images/Pasted image 20230312170747.png",
     "images/Pasted image 20230312165533.png",
     "images/Pasted image 20230312165052.png",
     "images",
-    "Reorganize.md",
+    "images/Pasted image 20230312163549.png",
+    "images/Pasted image 20230312163111.png",
     "tokyo.md",
     "Nights.md",
     "restaurant.md",
     "Osaka.md",
-    "Untitled.canvas",
     "Location added on 2023-03-11T23-30.md",
     "Location added on 2023-03-11T23-28.md",
     "Untitled 1.canvas"
